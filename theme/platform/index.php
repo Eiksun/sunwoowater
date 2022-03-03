@@ -8,8 +8,9 @@ if (G5_IS_MOBILE) {
 }
 
 // Header("Location:/page.php?id=structure");
-include_once(G5_THEME_PATH.'/dashboard.php');
-
+//include_once(G5_THEME_PATH.'/dashboard.php');
+/***임시 로그인후 추천조직도 보냄  */
+include_once(G5_THEME_PATH.'/structure.php');
 ?>
 
 <!-- 최신글 시작 { 
