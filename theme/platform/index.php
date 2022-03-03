@@ -9,7 +9,7 @@ if (G5_IS_MOBILE) {
 
 // Header("Location:/page.php?id=structure");
 include_once(G5_THEME_PATH.'/dashboard.php');
-
+//테스트입니다.
 ?>
 
 <!-- 최신글 시작 { 
